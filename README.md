@@ -1,2 +1,2 @@
 # action-repo
-This repo is for webhook testing puposes.
+This repository is for webhook testing puposes.
